@@ -1,1 +1,1 @@
-"# Computer_King_" 
+Computer_King_
