@@ -1,8 +1,1 @@
-computer.king.com
-$ORIGIN computer.king.com.
-@	3600	IN	SOA	ns31.cloudns.net. support.cloudns.net. 2020042003 7200 1800 1209600 3600
-www	3600	IN	CNAME	computer.king.com.
-@	3600	IN	NS	ns31.cloudns.net.
-@	3600	IN	NS	ns32.cloudns.net.
-@	3600	IN	NS	ns33.cloudns.net.
-@	3600	IN	NS	ns34.cloudns.net.
+computer_king.com
