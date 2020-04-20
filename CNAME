@@ -1,1 +1,8 @@
 computerki.ng
+$ORIGIN computerki.ng.
+@	3600	IN	SOA	ns31.cloudns.net. support.cloudns.net. 2020042002 7200 1800 1209600 3600
+www	3600	IN	CNAME	computerki.ng.
+@	3600	IN	NS	ns31.cloudns.net.
+@	3600	IN	NS	ns32.cloudns.net.
+@	3600	IN	NS	ns33.cloudns.net.
+@	3600	IN	NS	ns34.cloudns.net.
