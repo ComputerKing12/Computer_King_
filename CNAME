@@ -1,16 +1,1 @@
-$ORIGIN computerki.ng.
-@	3600	IN	SOA	ns31.cloudns.net. support.cloudns.net. 2020042012 7200 1800 1209600 3600
-@	3600	IN	NS	ns31.cloudns.net.
-@	3600	IN	NS	ns32.cloudns.net.
-@	3600	IN	NS	ns33.cloudns.net.
-@	3600	IN	NS	ns34.cloudns.net.
-;@	3600	IN	ALIAS	computerking12.github.io
-@	3600	IN	A	185.199.108.153
-@	3600	IN	A	185.199.109.153
-@	3600	IN	A	185.199.110.153
-@	3600	IN	A	185.199.111.153
-www	3600	IN	CNAME	computerking12.github.io.
-@	3600	IN	A	185.199.108.153
-@	3600	IN	A	185.199.109.153
-@	3600	IN	A	185.199.110.153
-@	3600	IN	A	185.199.111.153
+computerki.ng
